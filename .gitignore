@@ -109,10 +109,12 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+blog_venv/Scripts/*.*
 
 # Spyder project settings
 .spyderproject
 .spyproject
+.idea
 
 # Rope project settings
 .ropeproject
